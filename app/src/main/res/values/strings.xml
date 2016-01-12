@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Macos R Rosa</string>
+    <string name="action_settings">Sobre o App</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_tab_users">USUÁRIOS</string>
+    <string name="title_tab_repos">REPOSITÓRIOS</string>
+    <string name="about_app">App criado por: \nMarcos Rafael Rosa | marcos.fael@gmail.com</string>
+    <string name="search_title">Buscar</string>
+    <string name="search_hint">Buscar</string>
+    <string name="search_no_data">Nenhum resultado foi encontrado!</string>
+
+    <!--URL APIs Webservice-->
+    <string name="url_ws_user">https://api.github.com/search/users?q=</string>
+    <string name="url_ws_repo">https://api.github.com/search/repositories?q=</string>
+</resources>
